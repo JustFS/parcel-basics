@@ -1,0 +1,5 @@
+npm init -y (initialise npm)
+npm i -g parcel-bundler (installe parcel)
+
+parcel index.html (lancer localhost)
+parcel build index.html (build avant mise en ligne)

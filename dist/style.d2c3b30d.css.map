@@ -1,0 +1,1 @@
+{"version":3,"sources":["style\\_settings.scss"],"names":[],"mappings":"AAEA,KACE","file":"style.d2c3b30d.css","sourceRoot":"..\\src","sourcesContent":["$color-1: rgb(255, 180, 180);\r\n\r\nbody {\r\n  background: $color-1;\r\n}\r\n"]}
